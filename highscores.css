@@ -1,0 +1,24 @@
+body {
+    color: white;
+}
+
+#highScoresList {
+    font-size: 3rem;
+    list-style: none;
+    margin-bottom: 4rem;
+}
+
+.high-scores {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+}
+
+h1 {
+    color: gold;
+}
+
+.fa-crown {
+    font-size: 5rem;
+    color: gold;
+    margin-left: 1rem;
+}
