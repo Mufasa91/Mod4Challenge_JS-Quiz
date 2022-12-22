@@ -15,7 +15,7 @@ This challenge required to create a quiz using HMTL, CSS, and JavaScript with th
 *WHEN the game is over*
 *THEN I can save my initials and score*
 
-## Screenshot of Project
+## Screenshots of Project
 ![screenshot](/Mod4Challenge_Screenshot_1.png)
 ![screenshot](/Mod4Challenge_Screenshot_2.png)
 ![screenshot](/Mod4Challenge_Screenshot_3.png)
